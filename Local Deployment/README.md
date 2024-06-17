@@ -18,7 +18,7 @@ C:\kafka\bin\windows
  - Next open two command prompts in that directory - Type cmd in the address bar
 ---
 ### Step 04 - Initializing broker server and Zookeeper
-* Enter the codes given -> [Initializing Codes](./blob/main/Local%20Deployment/Server%20initializing%20codes.txt/)
+* Enter the codes given -> [Initializing Codes](.main/Local%20Deployment/Server%20initializing%20codes.txt/)
 * Open seperate 2 Prompts for Kafka, Zookeeper in that same directory
 > Starting Zookeeper
 ```bash
